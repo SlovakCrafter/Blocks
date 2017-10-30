@@ -1,0 +1,5 @@
+name: Blocks
+version: 1.0
+author: repa
+description: Allow blocks to be placed and destroyed with dispenser
+main: me.repa.blocks.Blocks
